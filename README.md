@@ -4,14 +4,14 @@ I'm a student who builds software for problems in my own day: staying focused, p
 getting good audio on my Mac, and checking that backups can really be restored. Most of these started because I
 wanted the tool myself and couldn't find one I trusted.
 
-I build with AI coding assistants, mainly Claude Code. I choose the problem, decide how the app should behave,
-test it on real phones and Macs, and fix what breaks. Each README says plainly what works and what isn't done yet.
+I build these with AI coding assistants, mostly Claude Code: I pick the problem, decide how the app should behave,
+test it on my own phones and Mac, and fix what breaks. Each README lists what works and what isn't finished.
 
 ## Projects
 
 | Project | What it does | Built with |
 |---|---|---|
-| [HiFi Guard](https://github.com/saifcs50-cs50/hifi-guard) | Mac menu-bar app: per-app volume, keeps Bluetooth earbuds in high-quality mode, and cancels the volume dip macOS applies to other apps during calls | Swift, Core Audio |
+| [HiFi Guard](https://github.com/saifcs50-cs50/hifi-guard) | Mac menu-bar app: per-app volume, keeps Bluetooth earbuds out of muffled call mode, and undoes the volume dip macOS applies to other apps during calls | Swift, Core Audio |
 | [FireDrill](https://github.com/saifcs50-cs50/firedrill) | Checks whether your backups can really be restored, with a read-only guarantee enforced in four layers (early stage) | Rust, Tauri |
 | [Whereabouts](https://github.com/saifcs50-cs50/whereabouts) | Diary and map of where 26 world leaders are each day, built from official sources, with AI-written summaries and every quote checked against its source page | Python, Astro, TypeScript |
 | [Sidedoor](https://github.com/saifcs50-cs50/sidedoor) | Keeps Instagram to your chats, friends' reels and Saved by closing the feed, Reels and Explore | Kotlin, Android |
